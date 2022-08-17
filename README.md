@@ -4,8 +4,8 @@ I'm a backend developer from Brazil
 
 **About me**
 
-- 💼 Software Engineer at [CI&T](ciandt.com)
-- ❤️ I love writing code in Javascript and also also a big GraphQL enthusiast
+- 💼 Software Engineer at [CI&T](https://ciandt.com)
+- ❤️ I love writing code in Javascript and also a big GraphQL enthusiast
 
 <code><img height="20" alt="javascript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" alt="graphql" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png"></code>
